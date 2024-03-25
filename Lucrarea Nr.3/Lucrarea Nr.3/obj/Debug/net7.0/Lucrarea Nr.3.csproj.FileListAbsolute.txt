@@ -1,0 +1,19 @@
+C:\Users\victo\Desktop\Lucrarea Nr.3\Lucrarea Nr.3\bin\Debug\net7.0\Lucrarea Nr.3.exe
+C:\Users\victo\Desktop\Lucrarea Nr.3\Lucrarea Nr.3\bin\Debug\net7.0\Lucrarea Nr.3.deps.json
+C:\Users\victo\Desktop\Lucrarea Nr.3\Lucrarea Nr.3\bin\Debug\net7.0\Lucrarea Nr.3.runtimeconfig.json
+C:\Users\victo\Desktop\Lucrarea Nr.3\Lucrarea Nr.3\bin\Debug\net7.0\Lucrarea Nr.3.dll
+C:\Users\victo\Desktop\Lucrarea Nr.3\Lucrarea Nr.3\bin\Debug\net7.0\Lucrarea Nr.3.pdb
+C:\Users\victo\Desktop\Lucrarea Nr.3\Lucrarea Nr.3\obj\Debug\net7.0\Lucrarea Nr.3.csproj.AssemblyReference.cache
+C:\Users\victo\Desktop\Lucrarea Nr.3\Lucrarea Nr.3\obj\Debug\net7.0\Lucrarea Nr.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Desktop\Lucrarea Nr.3\Lucrarea Nr.3\obj\Debug\net7.0\Lucrarea Nr.3.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\Lucrarea Nr.3\Lucrarea Nr.3\obj\Debug\net7.0\Lucrarea Nr.3.AssemblyInfo.cs
+C:\Users\victo\Desktop\Lucrarea Nr.3\Lucrarea Nr.3\obj\Debug\net7.0\Lucrarea Nr.3.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Lucrarea Nr.3\Lucrarea Nr.3\obj\Debug\net7.0\Lucrarea Nr.3.dll
+C:\Users\victo\Desktop\Lucrarea Nr.3\Lucrarea Nr.3\obj\Debug\net7.0\refint\Lucrarea Nr.3.dll
+C:\Users\victo\Desktop\Lucrarea Nr.3\Lucrarea Nr.3\obj\Debug\net7.0\Lucrarea Nr.3.pdb
+C:\Users\victo\Desktop\Lucrarea Nr.3\Lucrarea Nr.3\obj\Debug\net7.0\Lucrarea Nr.3.genruntimeconfig.cache
+C:\Users\victo\Desktop\Lucrarea Nr.3\Lucrarea Nr.3\obj\Debug\net7.0\ref\Lucrarea Nr.3.dll
+C:\Users\victo\Desktop\Lucrarea Nr.3\Lucrarea Nr.3\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\victo\Desktop\Lucrarea Nr.3\Lucrarea Nr.3\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\victo\Desktop\Lucrarea Nr.3\Lucrarea Nr.3\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\victo\Desktop\Lucrarea Nr.3\Lucrarea Nr.3\obj\Debug\net7.0\Lucrarea Nr.3.csproj.CopyComplete

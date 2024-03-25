@@ -1,0 +1,5 @@
+20.03.2024 20:58:55 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\Da.txt a fost adăugat.
+20.03.2024 20:58:55 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\Filee.png a fost adăugat.
+20.03.2024 20:58:55 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\Nu.txt a fost adăugat.
+20.03.2024 20:58:55 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\Sau.txt a fost adăugat.
+20.03.2024 20:58:55 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\Text.txt a fost adăugat.

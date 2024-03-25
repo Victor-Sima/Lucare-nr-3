@@ -1,0 +1,10 @@
+24.03.2024 22:32:34 - Commit efectuat.
+25.03.2024 21:13:08 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\Da.txt a fost adăugat.
+25.03.2024 21:13:08 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\dfgs.txt a fost adăugat.
+25.03.2024 21:13:08 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\Filee.png a fost adăugat.
+25.03.2024 21:13:08 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\Nu.txt a fost adăugat.
+25.03.2024 21:13:08 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\Sau.txt a fost adăugat.
+25.03.2024 21:13:08 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\Text.txt a fost adăugat.
+25.03.2024 21:13:53 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\Text.txt a fost șters.
+25.03.2024 21:13:53 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\trfury.txt a fost adăugat.
+25.03.2024 21:17:45 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\trfury.txt a fost modificat. Ultima modificare: 25.03.2024 21:14:03

@@ -1,0 +1,15 @@
+24.03.2024 21:01:40 - Commit efectuat.
+24.03.2024 21:02:17 - Snapshotul 'Commit_2024-03-20_14-25-50.txt' a fost restaurat. Conținut:
+19.03.2024 18:24:13 - Commit efectuat.
+20.03.2024 14:24:12 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\Da.txt a fost adăugat.
+20.03.2024 14:24:12 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\Filee.png a fost adăugat.
+20.03.2024 14:24:12 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\Nu.txt a fost adăugat.
+20.03.2024 14:24:12 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\Sau.txt a fost adăugat.
+20.03.2024 14:24:12 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\Text.txt a fost adăugat.
+
+24.03.2024 22:32:05 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\Da.txt a fost adăugat.
+24.03.2024 22:32:05 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\dfgs.txt a fost adăugat.
+24.03.2024 22:32:05 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\Filee.png a fost adăugat.
+24.03.2024 22:32:05 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\Nu.txt a fost adăugat.
+24.03.2024 22:32:05 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\Sau.txt a fost adăugat.
+24.03.2024 22:32:05 - Fișierul C:\Users\victo\Desktop\Lucrarea Nr.3\File\Text.txt a fost adăugat.

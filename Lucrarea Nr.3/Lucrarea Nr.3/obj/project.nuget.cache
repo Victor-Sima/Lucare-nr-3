@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bicLggcphcdDNEWvwqirYRfrz7/FVl5wOU1pmpVEQqt63rDLbv+Qx0jyEX7+4D2U0hXqJzdOW03Vs/MntDc7Xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victo\\Desktop\\Lucrarea Nr.3\\Lucrarea Nr.3\\Lucrarea Nr.3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\system.drawing.common\\8.0.2\\system.drawing.common.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
